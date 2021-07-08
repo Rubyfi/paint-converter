@@ -1,5 +1,8 @@
 # PaintConverter
 
+This tool shows how similar the acrylic paints of different brands are.
+Based on [paint-conversion by redgrimm](https://github.com/redgrimm/paint-conversion)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
